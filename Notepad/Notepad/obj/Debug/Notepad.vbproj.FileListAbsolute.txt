@@ -1,0 +1,12 @@
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.xml
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.xml
+c:\users\bittu\documents\visual studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Sebastian\Downloads\Compressed\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Sebastian\Downloads\Compressed\Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\Sebastian\Downloads\Compressed\Notepad\Notepad\obj\Debug\Notepad.pdb
